@@ -1,4 +1,4 @@
-# Portafolio de Ciberseguridad: Writeups y Laboratorios 💻🛡️
+# Portafolio de Ciberseguridad: Writeups y Laboratorios 
 
 ¡Hola! Bienvenido/a a mi repositorio. Soy estudiante de Ingeniería de Ciberseguridad y este espacio está dedicado a documentar mi aprendizaje continuo y mi experiencia práctica en entornos controlados.
 

@@ -179,9 +179,11 @@ Ahora lo conectamos a nuestro tunel usando nuestra ip del vpn
 ![alt text](image-21.png)
 
 en la maquina kali, apretamos enter, ejecutamos session y precionamos enter
+
 ![alt text](image-23.png)
 
 **Ahora podremos hacer ping a la red interna**
+
 ![alt text](image-24.png)
 
 ## Fase 4: Enumeración Interna y Ataque RBCD (User Flag)

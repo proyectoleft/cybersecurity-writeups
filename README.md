@@ -9,7 +9,7 @@ Aquí comparto mis notas técnicas, *writeups* y resoluciones de laboratorios en
 El contenido está organizado por plataformas:
 
 ### 1. TryHackMe (THM)
-* **/Modules:** Apuntes y resoluciones de las salas guiadas y rutas de aprendizaje (ej. *Network Services*, *SOC Level 1*).
+* **/Modules:** Apuntes y resoluciones de las salas guiadas y rutas de aprendizaje.
 * **/Machines:** Documentación paso a paso de retos tipo CTF y máquinas vulnerables de la plataforma.
 
 ### 2. HackTheBox (HTB)

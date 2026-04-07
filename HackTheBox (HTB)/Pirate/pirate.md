@@ -119,7 +119,9 @@ Veremos que sirve, ahora Para obtener una shell interactiva por WinRM en Linux e
 evil-winrm -i 10.129.24.120 -u 'gMSA_ADCS_prod$' -H '89fb53c2bc3eadb4142b4158cfdb2997'
 ```
 Ahora veremos la ip del controlador de dominio DC01
+
 ![alt text](image-16.png)
+
 * El ip config muestra que hay otra red entonces en la red que estoy ahorita es una red externa
 
 ## Fase 3: Pivoting y Evasión con Ligolo-ng
@@ -180,7 +182,6 @@ en la maquina kali, apretamos enter, ejecutamos session y precionamos enter
 ![alt text](image-23.png)
 
 **Ahora podremos hacer ping a la red interna**
-![alt text](image-24.png)
 
 ## Fase 4: Enumeración Interna y Ataque RBCD (User Flag)
 veremos quienes estara en esta red, el que me funciono mejor fue el primer comando

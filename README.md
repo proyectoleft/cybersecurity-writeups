@@ -14,11 +14,14 @@ El contenido está organizado por plataformas:
 
 ### 2. HackTheBox (HTB)
 * **/Machines:** *Writeups* detallados de la resolución de máquinas (Fase de reconocimiento, enumeración, explotación y escalada de privilegios).
+### 3. ¿Cómo leer los reportes?
+Para una lectura fluida, busca siempre el archivo con extensión .md dentro de cada carpeta. Ese archivo contiene 
+la explicación paso a paso y las capturas ya están integradas en el texto
+
 
 ## 🎯 Objetivo
-El propósito de este repositorio es doble:
+El propósito de este repositorio es :
 1. Mantener una base de conocimiento personal y estructurada.
-2. Demostrar mis habilidades analíticas, de investigación y de documentación técnica, fundamentales para operaciones de seguridad (SOC) y equipos de respuesta a incidentes.
 
 ---
 ⚠️ **Aviso Legal:** Toda la información, *scripts* y métodos documentados en este repositorio tienen fines estrictamente educativos y de investigación. Todas las pruebas se han realizado en entornos de laboratorio autorizados.

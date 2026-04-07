@@ -184,8 +184,6 @@ en la maquina kali, apretamos enter, ejecutamos session y precionamos enter
 
 **Ahora podremos hacer ping a la red interna**
 
-![alt text](image-24.png)
-
 ## Fase 4: Enumeración Interna y Ataque RBCD (User Flag)
 veremos quienes estara en esta red, el que me funciono mejor fue el primer comando
 ```bash

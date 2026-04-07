@@ -119,7 +119,9 @@ Veremos que sirve, ahora Para obtener una shell interactiva por WinRM en Linux e
 evil-winrm -i 10.129.24.120 -u 'gMSA_ADCS_prod$' -H '89fb53c2bc3eadb4142b4158cfdb2997'
 ```
 Ahora veremos la ip del controlador de dominio DC01
+
 ![alt text](image-16.png)
+
 * El ip config muestra que hay otra red entonces en la red que estoy ahorita es una red externa
 
 ## Fase 3: Pivoting y Evasión con Ligolo-ng

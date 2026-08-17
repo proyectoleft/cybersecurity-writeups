@@ -1,4 +1,4 @@
-# Laboratorio de Active Directory en Azure con Integración SIEM (Capa Gratuita)
+# Laboratorio de Active Directory en Azure con Integración SIEM (Cuenta Gratuita)
 
 Este proyecto documenta el despliegue completo de un entorno de **Active Directory Domain Services (AD DS)** en Microsoft Azure, diseñado para operar estrictamente dentro de los límites de la capa gratuita (200 créditos). 
 
